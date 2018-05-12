@@ -1,0 +1,32 @@
+_repo: Tratado-das-Cores--13-Que-consta-de-tres-partes--analytica-synthetica-hermeneutica_31190
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sampaio, Diogo de Carvalho e
+    aliases:
+    - Sampayo, Diogo de Carvalho e
+    - Carvalho e Sampaio, Diogo de
+    - De Carvalho e Sampaio, Diogo
+    birthdate: 1750
+    deathdate: 1807
+    gutenberg_agent_id: '35046'
+    url: http://www.gutenberg.org/2009/agents/35046
+description: ''
+gutenberg_bookshelf: PT Ciência e Técnica
+gutenberg_issued: '2010-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31190'
+  lccn: '31008249'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Colors'
+title: "Tratado das Cores\r\nQue consta de tres partes: analytica, synthetica, hermeneutica"
+url: http://www.gutenberg.org/ebooks/31190
